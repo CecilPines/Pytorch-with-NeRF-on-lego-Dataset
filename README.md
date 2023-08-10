@@ -1,7 +1,7 @@
 # Pytorch-with-NeRF-on-lego-Dataset
 本项目使用pytorch在lego数据集上尝试复现并训练NeRF模型。
 ## Pytorch-with-NeRF-on-lego-Dataset.ipynb
-此文件为源代码。因为实验结果过大所以不在此文件中显示。
+此文件为源代码。因为实验结果图片过大所以不在此文件中显示。
 
 ## 补充说明
 1. 本实验藉由colab完成，使用相关库版本详情参见colab相关文档。
